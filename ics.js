@@ -1,6 +1,8 @@
 /* global saveAs, Blob, BlobBuilder, console */
 /* exported ics */
 
+// This is a comment to test PR functionality
+
 var ics = function() {
     'use strict';
 
