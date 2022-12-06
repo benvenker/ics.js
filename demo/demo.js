@@ -1,4 +1,8 @@
 // Demo
+// This is another test comment
+// I'm making it multi-line so that I can test 
+// the file range comment
+
 var cal = ics();
 cal.addEvent('Christmas', 'Christian holiday celebrating the birth of Jesus Christ', 'Bethlehem', '12/25/2013', '12/25/2013');
 cal.addEvent('Christmas', 'Christian holiday celebrating the birth of Jesus Christ', 'Bethlehem', '12/25/2014', '12/25/2014');
