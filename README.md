@@ -3,6 +3,8 @@ ics.js
 
 A browser firendly .ics/.vcs file generator written entirely in javascript!!!!!!
 
+And modified for my testing purposes
+
 Now you can make calendar friendly files client-side.  It outputs .ics files, so the files are compatible with all modern calendar software (Outlook, Apple Calendar, Google, etc.)
 
 How To Use
